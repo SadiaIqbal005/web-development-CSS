@@ -1,0 +1,13 @@
+body{
+    background-color: darksalmon;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: yellow;
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    font-style: italic;
+}
